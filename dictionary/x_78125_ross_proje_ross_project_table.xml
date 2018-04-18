@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Ross Project Table" max_length="40" name="x_78125_ross_proje_ross_project_table" type="collection"/>
+</database>
